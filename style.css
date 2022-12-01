@@ -131,7 +131,7 @@
 }
 
 @media only screen and (max-width:600px){
-    .bg-container{
+    .nav-bar{
         width:110px;
     }
     .logo-icon{
